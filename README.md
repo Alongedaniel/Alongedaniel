@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alongedaniel
 - 👀 I really enjoy creating new things and I'm sure web development is the way to go
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m work with HTML and CSS 
 - 💞️ I’m looking to collaborate with great companies whose main priority is to make the web easier for people 
 - 📫 How to reach me 
 

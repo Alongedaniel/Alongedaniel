@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Alongedaniel
+- 👋 Hi, I’m Alonge Daniel Oladele
 - 👀 I really enjoy creating new things and I'm sure web development is the way to go
-- 🌱 I work with HTML and CSS 
-- 💞️ I’m looking to collaborate with great companies whose main priority is to make the web easier for people 
-- 📫 How to reach me 
+- 🌱 I work with HTML and CSS and Javascript and i'm currently working on React js
+- 💞️ I’m looking to collaborate with React js 
+- 📫 How to reach me [My Twitter](https://twitter.com/Niel60616232)
 
-<!---
-Alongedaniel/Alongedaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

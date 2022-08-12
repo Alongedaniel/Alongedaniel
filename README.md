@@ -3,6 +3,5 @@
 - 🌱 I work with HTML and CSS and Javascript and i'm currently working on React js
 - 💞️ I’m looking to collaborate with React js 
 - 📫 How to reach me [My Twitter](https://twitter.com/Niel60616232)
-- 📫 Here is [My Portfolio](alongedaniel.netlify.app)
 
 
